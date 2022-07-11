@@ -1,1 +1,1 @@
-# SQL-Code
+In the Nashville Housing dataset I cleaned the data up by deleting unused columns or duplicates, unifying selling information, seperating addresses into multiple columns (Street, City, State), and reformatting the dates to be easier to use. 
